@@ -10,3 +10,25 @@ header h1 {
     font-size: 24px;
     margin: 0;
 }
+/* styles.css */
+/* Add styles for the unordered list */
+ul {
+    list-style-type: disc; /* Use bullet points for list items */
+    margin-left: 20px;    /* Add some left margin for indentation */
+}
+
+/* Style the list items */
+li {
+    margin-bottom: 10px; /* Add spacing between list items */
+}
+
+/* Style the links inside list items */
+li a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #333;           /* Set link text color */
+}
+
+/* Style links on hover */
+li a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
