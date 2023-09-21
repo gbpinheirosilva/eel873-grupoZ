@@ -1,0 +1,12 @@
+/* styles.css */
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 24px;
+    margin: 0;
+}
