@@ -32,3 +32,11 @@ li a {
 li a:hover {
     text-decoration: underline; /* Underline links on hover */
 }
+
+section {
+    margin-top: 50px; /* Adjust as needed */
+}
+
+h2 {
+    text-align: center;
+}
