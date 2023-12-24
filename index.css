@@ -84,7 +84,7 @@
 }
 .frame {
   position: absolute;
-  top: 436.44rem;
+  top: 376.44rem;
   left: 9.38rem;
   width: 71rem;
   overflow: hidden;
@@ -552,7 +552,7 @@
   position: relative;
   background-color: #272727;
   width: 100%;
-  height: 603.63rem;
+  height: 539.63rem;
   overflow: hidden;
   text-align: left;
   font-size: var(--heading-h3-size);
